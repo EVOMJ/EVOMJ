@@ -26,28 +26,32 @@ olá, sou o **MARCOS** tenho 17 anos  e estou cursando o Ensino Médio.
 
 
 ### **📊 Estatísticas**
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="300" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=EVOMJ&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-   <img  
-  align="left" 
-    alt="GitHub Stats" 
-    height="300" 
-    style="padding-right: 10px;" 
- src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
- />
-
-
-
+br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVOMJ&layout=compact&langs_count=20&theme=neon" width="418" alt="Github top linguagens"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EVOMJ&theme=neon" alt="Github estatísticas"/>
+  <br>
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardolimaa29&theme=2077"/>
+</div>
+<br>
+<br>
+<div align="center">
  
- <img width="390" height="585" alt="image" src="https://github.com/user-attachments/assets/cfee38bc-ff6e-4994-ac9f-5adfe1a9fc99" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+</div>
+ 
+ <img 
+      width="12" height="585" alt="image" src="https://github.com/user-attachments/assets/cfee38bc-ff6e-4994-ac9f-5adfe1a9fc99" />
 
+
+
+<img 
+width="1024" height="1024" alt="1ec16360-dffd-4f79-84e3-46c400ffb285" src="https://github.com/user-attachments/assets/d5de343e-d676-4247-95c8-c97ebce7a2e7" />
 
 
 </p>
