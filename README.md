@@ -28,7 +28,7 @@ olá, sou o **MARCOS** tenho 17 anos  e estou cursando o Ensino Médio.
 </div>
  
  <img 
-      width="200" height="585" alt="image" src="https://github.com/user-attachments/assets/cfee38bc-ff6e-4994-ac9f-5adfe1a9fc99" />
+      width="300" height="585" alt="image" src="https://github.com/user-attachments/assets/cfee38bc-ff6e-4994-ac9f-5adfe1a9fc99" />
 
 
 </p>
