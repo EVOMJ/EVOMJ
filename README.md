@@ -46,6 +46,7 @@ src="https://peteletrica.uff.br/wp-content/uploads/sites/509/2022/10/Arduino_Log
       align="left" 
       alt="GitHub Stats" 
       height="300" 
+    style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVOMJ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
@@ -53,12 +54,6 @@ src="https://peteletrica.uff.br/wp-content/uploads/sites/509/2022/10/Arduino_Log
 
 <img width="1024" height="1024" alt="1ec16360-dffd-4f79-84e3-46c400ffb285" src="https://github.com/user-attachments/assets/d5de343e-d676-4247-95c8-c97ebce7a2e7" />
 
-
-
-  <img
-         width="60px"       
-style="padding-right: 40px;" 
- width="442" height="585" alt="image" src="https://github.com/user-attachments/assets/dd98230b-71bd-4ae3-92ef-2e2e9a248bd0" />
 
 
 </p>
