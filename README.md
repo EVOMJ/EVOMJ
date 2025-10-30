@@ -36,12 +36,13 @@ olá, sou o **MARCOS** tenho 17 anos  e estou cursando o Ensino Médio.
     src="https://github-readme-stats.vercel.app/api?username=EVOMJ&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+ <img
       align="left" 
       alt="GitHub Stats" 
       height="300" 
     style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVOMJ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+ width="390" height="585" alt="image" src="https://github.com/user-attachments/assets/7d496f7a-b133-47fa-bc3d-986973d0df0c" />
+
   />
 
 
