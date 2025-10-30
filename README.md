@@ -41,8 +41,4 @@ olá, sou o **MARCOS** tenho 17 anos  e estou cursando o Ensino Médio.
 
 
 
-<img 
-width="1024" height="1024" alt="1ec16360-dffd-4f79-84e3-46c400ffb285" src="https://github.com/user-attachments/assets/d5de343e-d676-4247-95c8-c97ebce7a2e7" />
-
-
 </p>
