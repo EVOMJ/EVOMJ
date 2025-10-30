@@ -27,6 +27,10 @@ olá, sou o **MARCOS** tenho 17 anos  e estou cursando o Ensino Médio.
     style="padding-right: 10px;" 
 src="https://peteletrica.uff.br/wp-content/uploads/sites/509/2022/10/Arduino_Logo.svg_.png" alt="Arduino | PET-Elétrica UFF"/>
 
+<img
+         width="50px" 
+style="padding-right: 20px;" 
+ width="348" height="460" alt="image" src="https://github.com/user-attachments/assets/d5058bc0-c587-4bf3-baa0-4d4838c70033" />
 
 
 
