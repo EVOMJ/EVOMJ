@@ -31,7 +31,7 @@ br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVOMJ&layout=compact&langs_count=20&theme=neon" width="418" alt="Github top linguagens"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EVOMJ&theme=neon" alt="Github estatísticas"/>
   <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardolimaa29&theme=2077"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EVOMJ&theme=2077"/>
 </div>
 <br>
 <br>
