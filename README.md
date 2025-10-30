@@ -4,7 +4,7 @@
 
 **`Desenvolvedor`**
 
-olá, sou o **MARCOS** mas sou mais conhecido por **JESUS**tenho 17 anos  e estou cursando o Ensino Médio.
+olá, sou o **MARCOS** tenho 17 anos  e estou cursando o Ensino Médio.
 
 
 
