@@ -53,7 +53,7 @@ src="https://peteletrica.uff.br/wp-content/uploads/sites/509/2022/10/Arduino_Log
 
 
 <img 
-          height="300"
+          height="30"
         style="padding-right: 10px;" 
 width="1024" height="1024" alt="1ec16360-dffd-4f79-84e3-46c400ffb285" src="https://github.com/user-attachments/assets/d5de343e-d676-4247-95c8-c97ebce7a2e7" />
 
