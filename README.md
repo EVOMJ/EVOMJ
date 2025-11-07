@@ -30,4 +30,3 @@ width="200"
 
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=30&section=footer)
