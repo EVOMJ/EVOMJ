@@ -1,5 +1,5 @@
 <div align="center">
-  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,30:000000,30:ffffff,100:ffffff&gradient=true"/>
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5001&pause=1001&color=F73D46&center=true&vCenter=true&width=503&height=68&lines=Hello%2C+welcome+;ola%2Cseja+bem+vindo" alt="Typing SVG" /></a>
@@ -25,6 +25,7 @@ Gosto de trabalhar com full stack, e meu foco é a programação. Se for para cr
  <img 
       width="200" height="585" alt="image" src="https://github.com/user-attachments/assets/cfee38bc-ff6e-4994-ac9f-5adfe1a9fc99" />
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,40:000000,40:ffffff,100:ffffff&gradient=true&section=footer&reversal=true"/>
 
 </p>
 
