@@ -1,6 +1,5 @@
 <div align="center">
   
-![waving](https://capsule-render.vercel.app/api?type=waving&height=100&text=&fontAlign=30&fontAlignY=30&color=gradient)
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5001&pause=1001&color=F73D46&center=true&vCenter=true&width=503&height=68&lines=Hello%2C+welcome+;ola%2Cseja+bem+vindo" alt="Typing SVG" /></a>
