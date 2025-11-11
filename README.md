@@ -7,7 +7,6 @@
 Olá, meu nome é **Marcos**, mas sou mais conhecido por Jesus. Tenho 17 anos e estou cursando o Ensino Médio.
 Adoro criar códigos, explorar diferentes linguagens e descobrir como posso aplicá-las no meu dia a dia. A "fábrica de programadores" me proporcionou um conhecimento amplo. Quando comecei, achava que não daria em nada, mas hoje estou sempre pensando em que momento posso desenvolver um novo código.
 Gosto de trabalhar com full stack, e meu foco é a programação. Se for para criar um aplicativo, uma API, um banco de dados ou aprender uma nova linguagem, estou sempre disposto a aceitar o desafio
-width="200" 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5034&pause=1032&color=FF3F48&center=true&vCenter=true&multiline=true&width=503&height=83&lines=Statistics" alt="Typing SVG" /></a>
 
